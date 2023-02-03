@@ -6,7 +6,7 @@
 
 |  Дата 	|   Тема	|  Материалы 	|   [Записи лекций](https://disk.yandex.ru/d/iumxLgZ2x99hzg)	|
 |:---:	|---	|:---:	|:---:	|
-|  03.02 	|  Введение. Обзор направлений в текстовом анализе. Предмет лингвистики. Digital humanities. 	|  [Семинар 1](https://github.com/alekseyst/text_analysis_2023/blob/main/Seminar_1/Seminar_1_Instr.md) 	|  [Лекция 1](https://disk.yandex.ru/d/HcdEYEyKlvF5tQ) 	|
+|  03.02 	|  Введение. Обзор направлений в текстовом анализе. Предмет лингвистики. Digital humanities. 	|  [Лекция 1](https://docs.google.com/presentation/d/1UXCk2H2Z8kbeQgOwy7ZCf5PcvoxEBQBsAks9GgEQFyg/edit?usp=sharing), [Семинар 1](https://github.com/alekseyst/text_analysis_2023/blob/main/Seminar_1/Seminar_1_Instr.md) 	|  [Лекция 1](https://disk.yandex.ru/d/HcdEYEyKlvF5tQ) 	|
 |  10.02	|  Корпусная лингвистика 1 	|   	|   	|
 |  17.02	|  Корпусная лингвистика 2	|   	|   	|
 |   24.02	|  праздники — лекции нет 	|   	|   	|
