@@ -81,14 +81,14 @@ Use raw files -- Add files
 * Изучите основные возможности инструмента на примере романов Дж. Остин
 \> Open > Choose a corpus > Austen's Novels 
 
-<img src="https://raw.githubusercontent.com/alekseyst/text_analysis_2023/blob/main/Seminar_3/voyant-tools_1.png" width = "800"/>
+<img src="https://github.com/alekseyst/text_analysis_2023/blob/main/Seminar_3/voyant-tools_1.png" width = "800"/>
 
 * Voyant Tools умеет строить облака слов (для всего корпуса и отдельных документов)   
 * показывает распределение частоты слов в документах  
 * показывает свойства документов, такие как длина в словах, среднее количество слов в предложении и т. д. [пример](https://voyant-tools.org/?corpus=austen)  
 * вернувшись на исходную страницу, вы можете загрузить и исследовать свой пользовательский корпус  
 
-<img src="https://raw.githubusercontent.com/alekseyst/Seminar_3/voyant-tools_2.png" width = "800"/>
+<img src="https://github.com/alekseyst/text_analysis_2023/blob/main/Seminar_3/voyant-tools_2.png" width = "800"/>
 
 #### Полезное  
 * [Мануал](http://www.laurenceanthony.net/software/antconc/resources/help_AntConc321_english.pdf) (на английском)
