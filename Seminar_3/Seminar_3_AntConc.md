@@ -7,14 +7,14 @@ __AntConc__ -- корпусный менеджер. Это программа с
 ### Материал для работы на семинаре
 Анна Каренина: [plain text](https://drive.google.com/file/d/0B6-5pzCmb8MOVFBjajZJUHhNNmM/view?usp=sharing), [xml](https://drive.google.com/file/d/0B6-5pzCmb8MOTktNVlpjaDdOY2M/view?usp=sharing)
 
-Война и Мир, т. 1: [plain text](https://github.com/alekseyst/Seminar_3/TolstoyVojnaIMir1.txt)
+Война и Мир, т. 1: [plain text](https://github.com/alekseyst/text_analysis_2023/blob/main/Seminar_3/TolstoyVojnaIMir1.txt)
 
-Тихий Дон: [plain text](https://github.com/alekseyst/Seminar_3/tihiyd.txt) 
+Тихий Дон: [plain text](https://github.com/alekseyst/text_analysis_2023/blob/main/Seminar_3/tihiyd.txt) 
 
-СинТагРус: [tokens](https://github.com/alekseyst/Seminar_3/syntagrus_tokens.txt) [lemma_POS](https://github.com/alekseyst/Seminar_3/syntagrus_lemmas.txt) 
+СинТагРус: [tokens](https://github.com/alekseyst/text_analysis_2023/blob/main/Seminar_3/syntagrus_tokens.txt) [lemma_POS](https://github.com/alekseyst/text_analysis_2023/blob/main/Seminar_3/syntagrus_lemmas.txt) 
 
 LiveCorpus: 
-[tokens](https://github.com/alekseyst/Seminar_3/LiveCorpus2019.txt) [lemma_POS](https://github.com/alekseyst/Seminar_3/LiveCorpus2019_lemmas.txt) 
+[tokens](https://github.com/alekseyst/text_analysis_2023/blob/main/Seminar_3/LiveCorpus2019.txt) [lemma_POS](https://github.com/alekseyst/text_analysis_2023/blob/main/Seminar_3/LiveCorpus2019_lemmas.txt) 
 
 ### Credits
 
@@ -33,7 +33,7 @@ LiveCorpus:
 
 * Конкордансы и частотные списки можно строить с использованием Regex в Search Term. Например, `\w+ну` найдет любое слово, содержащее -_ну_, но не частицу _ну_. Вот так можно найти все глаголы на _-ну-_.
 
-<img src="https://raw.githubusercontent.com/alekseyst/Seminar_3/antconc_1.png" width = "800"/>
+<img src="https://raw.githubusercontent.com/alekseyst/text_analysis_2023/blob/main/Seminar_3/antconc_1.png" width = "800"/>
 
 ### Работа с размеченными файлами 
 
@@ -47,7 +47,7 @@ LiveCorpus:
 Settings > Tool Preferences > Keyword List  
 Use raw files -- Add files
 
-<img src="https://raw.githubusercontent.com/alekseyst/Seminar_3/antconc_3.png" width = "800"/>
+<img src="https://raw.githubusercontent.com/alekseyst/text_analysis_2023/blob/main/Seminar_3/antconc_3.png" width = "800"/>
 
 * Там же в настройках установите Log-Likelyhood (4-term) в качестве статистической метрики определения keyness и Длину списка в 1000 слов (Keyword Effect Size Threshold). 
  -- Apply 
@@ -57,7 +57,7 @@ Use raw files -- Add files
 Для новых файлов AntConc начнет генерацию словника (выдаст предупреждение jump to Word List). 
 В результате на вкладке Keyword List появится список ключевых слов, отсортированный по убыванию метрики Keyness (Log-Likelyhood). 
 
-<img src="https://raw.githubusercontent.com/alekseyst/Seminar_3/antconc_4.png" width = "800"/>
+<img src="https://raw.githubusercontent.com/alekseyst/text_analysis_2023/blob/main/Seminar_3/antconc_4.png" width = "800"/>
 
 * Чтобы найти интересующее слово в этом списке, введите его в поле Search Term и нажмите кнопку Search Only (не Start!). Кликнув на слово в списке, можно перейти к конкордансу. 
 
@@ -81,7 +81,7 @@ Use raw files -- Add files
 * Изучите основные возможности инструмента на примере романов Дж. Остин
 \> Open > Choose a corpus > Austen's Novels 
 
-<img src="https://raw.githubusercontent.com/alekseyst/Seminar_3/voyant-tools_1.png" width = "800"/>
+<img src="https://raw.githubusercontent.com/alekseyst/text_analysis_2023/blob/main/Seminar_3/voyant-tools_1.png" width = "800"/>
 
 * Voyant Tools умеет строить облака слов (для всего корпуса и отдельных документов)   
 * показывает распределение частоты слов в документах  
