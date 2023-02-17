@@ -1,11 +1,11 @@
 ## Конкордансеры. Практикум AncConc
 
-__AntConc__ -- корпусный менеджер. Это программа с пользовательским интерфейсом, которая позволяет достаточно простым образом собрать корпус из имеющихся файлов и предлагает широкий инструментарий для работы с ними. 
+__AntConc__ — корпусный менеджер. Это программа с пользовательским интерфейсом, которая позволяет достаточно простым образом собрать корпус из имеющихся файлов и предлагает широкий инструментарий для работы с ними. 
 
 * [Страница программы](http://www.laurenceanthony.net/software/antconc/), где её можно скачать и посмотреть инструкции
 
 ### Материал для работы на семинаре
-Анна Каренина: [plain text](https://drive.google.com/file/d/0B6-5pzCmb8MOVFBjajZJUHhNNmM/view?usp=sharing), [xml](https://drive.google.com/file/d/0B6-5pzCmb8MOTktNVlpjaDdOY2M/view?usp=sharing)
+Анна Каренина: [plain text](https://github.com/alekseyst/text_analysis_2023/blob/main/Seminar_3/karenina.txt), [xml](https://github.com/alekseyst/text_analysis_2023/blob/main/Seminar_3/karenina.xhtml)
 
 Война и Мир, т. 1: [plain text](https://github.com/alekseyst/text_analysis_2023/blob/main/Seminar_3/TolstoyVojnaIMir1.txt)
 
@@ -23,7 +23,7 @@ LiveCorpus:
 ### Знакомство с основными функциями
 
 * Загрузите файл, проверьте, что он отображается нормально (вкладка FileView). 
-* Если нужно, настройте кодировку (меню Global Settings - Char Encoding). Чтобы слова с дефисами считались одним токеном, добавьте Connector и Dash в меню Global Settings - Token Definition.
+* Если нужно, настройте кодировку (меню Global Settings — Char Encoding). Чтобы слова с дефисами считались одним токеном, добавьте Connector и Dash в меню Global Settings — Token Definition.
 * Постройте частотный список слов романа (вкладка Word List, нажмите кнопку Start). Кликнув на слово, вы сможете попасть в конкорданс, построенный для этого слова. 
 * В Word List отсортируйте частотный список по алфавиту (Sort by Word внизу страницы). 
 * Постройте частотный список двух-, трех- и т.д. -словных словосочетаний (вкладка Cluster/N-Grams, поставьте галочку на N-Grams, укажите, сколько слов в ngram-е вы хотите видеть, например, Min:3, Max:3, установите порог вхождений в корпусе, например, 10). Кликнув на n-грам, вы также можете попасть в его конкорданс. 
@@ -37,20 +37,20 @@ LiveCorpus:
 
 ### Работа с размеченными файлами 
 
-* Постройте частотный список, игнорируя теги xml (см. xml-файл с расширением xhtml. Чтобы его открыть, укажите Все типы файлов). В настройках Global Settings - Tag - Hide tags. 
+* Постройте частотный список, игнорируя теги xml (см. xml-файл с расширением xhtml. Чтобы его открыть, укажите Все типы файлов). В настройках Global Settings — Tag — Hide tags. 
 
 ### Ключевые слова (лексические маркеры)
 
-Чтобы определить характерные для некоторого корпуса слова, мы должны сравнить их частоты в данном корпусе с частотами в другом корпусе - reference corpus. 
+Чтобы определить характерные для некоторого корпуса слова, мы должны сравнить их частоты в данном корпусе с частотами в другом корпусе — reference corpus. 
 
 * Загрузите SynTagRus в качестве reference corpus:  
 Settings > Tool Preferences > Keyword List  
-Use raw files -- Add files
+Use raw files — Add files
 
 <img src="https://github.com/alekseyst/text_analysis_2023/blob/main/Seminar_3/antconc_3.png" width = "800"/>
 
 * Там же в настройках установите Log-Likelyhood (4-term) в качестве статистической метрики определения keyness и Длину списка в 1000 слов (Keyword Effect Size Threshold). 
- -- Apply 
+— Apply 
  
 * Перейдите на вкладку Keyword List 
  \> Start 
@@ -76,7 +76,7 @@ Use raw files -- Add files
 
 ### Voyant Tools 
 
-Еще одно полезное онлайн-приложение, которое активно используют литературоведы и историки - [Voyant Tools](https://voyant-tools.org).
+Еще одно полезное онлайн-приложение, которое активно используют литературоведы и историки — [Voyant Tools](https://voyant-tools.org).
 
 * Изучите основные возможности инструмента на примере романов Дж. Остин
 \> Open > Choose a corpus > Austen's Novels 
