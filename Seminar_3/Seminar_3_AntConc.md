@@ -16,7 +16,7 @@ __AntConc__ — корпусный менеджер. Это программа �
 LiveCorpus: 
 [tokens](https://github.com/alekseyst/text_analysis_2023/blob/main/Seminar_3/LiveCorpus2019.txt) [lemma_POS](https://github.com/alekseyst/text_analysis_2023/blob/main/Seminar_3/LiveCorpus2019_lemmas.txt) 
 
-[Все файлы вместе](https://disk.yandex.ru/d/TcP6x-n-Pez8NQ)
+[Все файлы вместе](https://disk.yandex.ru/d/xJ9VJT5zi70Qsg)
 
 ### Credits
 
