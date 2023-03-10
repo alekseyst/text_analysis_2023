@@ -12,8 +12,8 @@
 |   24.02	|  праздники — лекции нет 	|   [Семинар 4](https://github.com/alekseyst/text_analysis_2023/blob/main/Seminar_4/Seminar_4_InternetParsing.ipynb)	|   	|
 |  03.03	|  Частотностные характеристики текста: Визуализация 	|   [Лекция 4](https://docs.google.com/presentation/d/1l4vIN7wn99zz1C4vHZ_eY71GT8_wOVkqRO2wS5a9A00/edit?usp=sharing) [Семинар 5](https://github.com/alekseyst/text_analysis_2023/blob/main/Seminar_5/Seminar_5_Annotation.ipynb)	|   [Лекция 4](https://disk.yandex.ru/d/a0W3vdrYX0ktng)	| Квиз 2 |
 |   10.03	|  Частотностные характеристики текста: Базовые инструменты статистического анализа	|   	|   	| Выдача ДЗ |
-|   17.03	|  Инструменты компьютерной лингвистики 1: Именованные сущности, семантические вектора, анализ тональности	|   	|   	| Квиз 3<br>Сдача ДЗ,<br>дедлайн — 16 марта |
-|  24.03 	|  Инструменты компьютерной лингвистики 2: Что под обшивкой — машинное обучение и нейросети	|  [Лекция 5](https://docs.google.com/presentation/d/1NYbKJ8WXo-jdoBYTse562DOFg1v0vYfAvHHDRWA0OwA/edit?usp=sharing) 	|   [Лекция 5](https://disk.yandex.ru/d/Kc23T6DI1GUcXQ)	|Квиз 4 |
+|   17.03	|  Инструменты компьютерной лингвистики 1: Именованные сущности, семантические вектора, анализ тональности	|  [Лекция 5](https://docs.google.com/presentation/d/1NYbKJ8WXo-jdoBYTse562DOFg1v0vYfAvHHDRWA0OwA/edit?usp=sharing) 	|   [Лекция 5](https://disk.yandex.ru/d/Kc23T6DI1GUcXQ)	| Квиз 3<br>Сдача ДЗ,<br>дедлайн — 16 марта |
+|  24.03 	|  Инструменты компьютерной лингвистики 2: Что под обшивкой — машинное обучение и нейросети	|   	|   	|Квиз 4 |
 
 ## Домашнее задание
 
